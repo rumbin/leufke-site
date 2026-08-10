@@ -16,11 +16,11 @@
  *
  * Policy / tolerances:
  *  - HTTP 2xx/3xx  -> OK (redirects followed).
- *  - HTTP 403      -> WARNING (non-blocking): almost always a server bot/WAF
- *    block of the automated checker, NOT a dead link. A genuinely gone page
- *    returns 404/410/451. Surfacing 403 as a warning avoids flaky failures on
- *    real, bot-protected sites (hochschwarzwald.de) while keeping visibility.
- *  - HTTP 4xx (≠403) / 5xx -> FAIL (dead link).
+ *  - HTTP 403/408/429 -> WARNING (non-blocking): server-side throttling /
+ *    bot-WAF / rate-limit of the checker or its shared CI IP — not a dead
+ *    link. A genuinely gone page returns 404/410/451. Surfacing throttles as
+ *    warnings avoids flaky CI on real, protected sites while keeping visibility.
+ *  - HTTP 4xx (≠403/408/429) / 5xx -> FAIL (dead link).
  *  - Net/SSL/timeout -> FAIL (unreachable).
  *  - A URL still beginning `http://` -> FAIL (mixed content on an https site).
  *
@@ -63,10 +63,18 @@ async function checkWithPage(page, url) {
   const finalUrl = response.url() || url;
   const insecure = url.startsWith('http://');
   if (insecure) return { ok: false, warn: false, status, finalUrl, insecure, reason: 'insecure http:// scheme' };
-  // A link is DEAD only if the page is really gone. HTTP 403 overwhelmingly
-  // means "automated checker blocked by bot/WAF protection", NOT "link broken"
-  // (a real dead page returns 404/410/451). So 403 is a non-blocking warning.
-  if (status === 403) return { ok: true, warn: true, status, finalUrl, reason: '403 — bot/WAF block (page may be fine, verify manually)' };
+  // A link is DEAD only if the page is really gone. Server-side throttle codes
+  // (403 bot/WAF block, 429 rate-limit, 408 timeout) overwhelmingly mean the
+  // checker / shared IP was blocked, NOT that the page vanished — a genuinely
+  // gone page returns 404/410/451. Treating throttles as hard failures makes CI
+  // flaky (shared CI IPs get 429/403 from real sites). So 403/408/429 are
+  // non-blocking warnings that still get surfaced for a human to eyeball.
+  if ([403, 408, 429].includes(status)) {
+    const label = status === 403 ? 'bot/WAF block'
+      : status === 429 ? 'rate-limited (too many requests)'
+      : 'server timed out';
+    return { ok: true, warn: true, status, finalUrl, reason: `${status} — ${label} (page may be fine, verify manually)` };
+  }
   const ok = status < 400;
   return { ok, warn: false, status, finalUrl, reason: ok ? undefined : `HTTP ${status}` };
 }
