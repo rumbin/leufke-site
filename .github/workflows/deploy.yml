@@ -69,6 +69,14 @@ jobs:
           PY
           nikola build
 
+      - name: Integration test — carousel slide heights must not jump
+        run: |
+          # The runner already ships Google Chrome at /usr/bin/google-chrome.
+          # Install the test's pinned deps from the committed lock file, then run
+          # the carousel check against the freshly built output/.
+          ( cd tests && npm ci )
+          node tests/carousel-heights.test.js
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:

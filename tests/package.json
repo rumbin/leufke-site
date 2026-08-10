@@ -1,0 +1,13 @@
+{
+  "name": "leufke-site-tests",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "Integration tests for the leufke.de Nikola site (requires nikola build output/).",
+  "dependencies": {
+    "puppeteer-core": "^23.0.0"
+  },
+  "scripts": {
+    "test": "node carousel-heights.test.js"
+  }
+}
