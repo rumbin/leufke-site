@@ -30,12 +30,24 @@ jobs:
       - name: Install pinned dependencies
         run: |
           pip install --upgrade pip setuptools wheel
-          pip install "Nikola[extras]==7.8.15" \
+          # NOTE: we deliberately install plain Nikola (NOT Nikola[extras]) because the
+          # [extras] extra hard-pins PyYAML==3.12, an ancient release that only builds
+          # from source and fails to compile on modern GitHub runners (CPython >=3.9
+          # internal ABI). We install the individual packages the site actually needs,
+          # pinned to the same versions as the working local env.
+          pip install "Nikola==7.8.15" \
+                      "docutils==0.19" \
+                      "Pygments==2.14.0" \
                       "Markdown==3.3.4" \
                       "doit==0.33.1" \
+                      "natsort==8.2.0" \
+                      "Pillow==9.4.0" \
+                      "piexif==1.1.3" \
+                      "Logbook==1.5.3" \
+                      "tornado==6.2" \
+                      "requests==2.28.1" \
                       "sftpclone==1.2.2" \
-                      "cryptography==3.4.7" \
-                      "PyYAML>=5.4,<6"
+                      "cryptography==3.4.7"
 
       - name: Build site for GitHub Pages subdomain
         env:
