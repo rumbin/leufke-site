@@ -2,7 +2,7 @@ name: Build & Deploy GitHub Pages
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   workflow_dispatch:
 
 # Only one deployment at a time, latest wins.
