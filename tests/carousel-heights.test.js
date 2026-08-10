@@ -69,49 +69,60 @@ function walk(dir, out = []) {
   let failures = 0;
   let checked = 0;
 
-  try {
-    const page = await browser.newPage();
-    for (const file of pages) {
-      const url = 'file://' + file;
-      await page.goto(url, { waitUntil: 'networkidle0' });
-      const result = await page.evaluate(() => {
-        const cars = Array.from(document.querySelectorAll('.carousel'));
-        return cars.map((carousel, carIdx) => {
-          const items = Array.from(carousel.querySelectorAll('.item'));
-          const heights = [];
-          // Measure each slide independently (force active, measure, measure the
-          // container's natural height).
-          items.forEach((item, i) => {
-            items.forEach((it) => it.classList.remove('active'));
-            item.classList.add('active');
-            heights.push(carousel.offsetHeight);
-          });
-          // restore
-          items.forEach((it, i) => it.classList.toggle('active', i === 0));
-          return { carousel: carIdx, slides: items.length, heights };
-        });
-      });
+  // Test at a range of viewports. Desktop matters most here: only a wide
+  // container triggers the "small image doesn't up-scale to fill width" bug
+  // (a near-square or small image stays at natural width, so it renders
+  // shorter than the full-width photos and the carousel height jumps).
+  const VIEWPORTS = [
+    { name: 'desktop', width: 1280, height: 900 },
+    { name: 'tablet', width: 768, height: 1024 },
+    { name: 'mobile', width: 375, height: 667 },
+  ];
 
-      for (const car of result) {
-        checked++;
-        if (car.slides === 0) continue;
-        const min = Math.min(...car.heights);
-        const max = Math.max(...car.heights);
-        const jump = max - min;
-        const pageRel = path.relative(outputDir, file);
-        if (jump > CAROUSEL_HEIGHT_TOLERANCE) {
-          failures++;
-          console.log(
-            `FAIL  ${pageRel}  carousel#${car.carousel}  heights=[${car.heights.join(', ')}]  `
-              + `jump=${jump}px (>${CAROUSEL_HEIGHT_TOLERANCE}px)`
-          );
-        } else {
-          console.log(
-            `ok    ${pageRel}  carousel#${car.carousel}  ${car.slides} slides  `
-              + `{min=${min}px max=${max}px jump=${jump}px}`
-          );
+  try {
+    for (const vp of VIEWPORTS) {
+      const page = await browser.newPage();
+      await page.setViewport({ width: vp.width, height: vp.height });
+      for (const file of pages) {
+        const url = 'file://' + file;
+        await page.goto(url, { waitUntil: 'networkidle0' });
+        const result = await page.evaluate(() => {
+          const cars = Array.from(document.querySelectorAll('.carousel'));
+          return cars.map((carousel, carIdx) => {
+            const items = Array.from(carousel.querySelectorAll('.item'));
+            const heights = [];
+            items.forEach((item, i) => {
+              items.forEach((it) => it.classList.remove('active'));
+              item.classList.add('active');
+              heights.push(carousel.offsetHeight);
+            });
+            items.forEach((it, i) => it.classList.toggle('active', i === 0));
+            return { carousel: carousel.id || carIdx, slides: items.length, heights };
+          });
+        });
+
+        for (const car of result) {
+          checked++;
+          if (car.slides === 0) continue;
+          const min = Math.min(...car.heights);
+          const max = Math.max(...car.heights);
+          const jump = max - min;
+          const pageRel = path.relative(outputDir, file);
+          if (jump > CAROUSEL_HEIGHT_TOLERANCE) {
+            failures++;
+            console.log(
+              `FAIL  [${vp.name}] ${pageRel}  carousel#${car.carousel}  heights=[${car.heights.join(', ')}]  `
+                + `jump=${jump}px (>${CAROUSEL_HEIGHT_TOLERANCE}px)`
+            );
+          } else {
+            console.log(
+              `ok    [${vp.name}] ${pageRel}  carousel#${car.carousel}  ${car.slides} slides  `
+                + `{min=${min}px max=${max}px jump=${jump}px}`
+            );
+          }
         }
       }
+      await page.close();
     }
   } finally {
     await browser.close();

@@ -1,0 +1,18 @@
+/* Site-specific overrides for Haus Leufke & Haus Salzhaff (leufke.de).
+ *
+ * Carousel: force every slide's image to fill the carousel width.
+ * The default Bootstrap img-responsive rule is `max-width:100%; height:auto`,
+ * which downscales large photos to the container but leaves SMALL images at
+ * their natural size. A small image in a wide container then renders shorter
+ * than the photos, so the carousel's height changes from slide to slide and
+ * the content below jumps up/down.
+ *
+ * `width:100%` here makes every slide stretch to the same width; combined
+ * with matching aspect ratios across slides (see the hsw-card crop), every
+ * slide renders at the same height and the layout stays rock-solid.
+ */
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    height: auto;
+}
