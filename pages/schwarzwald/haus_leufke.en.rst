@@ -236,10 +236,10 @@ And for the winter we suggest to do alpine skiing, cross country skiing, snowdoa
 
 
 .. _gallery: /en/galleries/schwarzwald
-.. _Hochschwarzwald Card: http://www.hochschwarzwald.de/Card
+.. _Hochschwarzwald Card: https://www.hochschwarzwald.de/planen-buchen/hochschwarzwald-card
 .. _Performance Overview: https://www.hochschwarzwald.de/_Resources/Persistent/6eba9d7eac8dcd44745e891275d6bcc2009a3e89/Performance%20overview%20from%20December%202023.pdf
 .. _3-in-5-Days Skiticket: https://www.hochschwarzwald.de/_Resources/Persistent/515a550021ef519f0e97cb095abfac0a82560799/OnePager%20Feldberg_.pdf
-.. _progamm for children: http://www.hochschwarzwald.de/Familienurlaub/Kinderprogramm-im-Urlaub-mit-Kucky
+.. _progamm for children: https://www.hochschwarzwald.de/planen-buchen/urlaub-in-der-region/familien-urlaub/kinderprogramm
 
 
 

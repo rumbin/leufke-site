@@ -217,7 +217,7 @@ Interessant, nicht nur für Familien, ist das Haus der Natur auf dem Feldberg, d
 
 
 .. _Bildergalerie: /galleries/schwarzwald
-.. _Hochschwarzwald Card: http://www.hochschwarzwald.de/Card
+.. _Hochschwarzwald Card: https://www.hochschwarzwald.de/planen-buchen/hochschwarzwald-card
 .. _Leistungsumfang: https://www.hochschwarzwald.de/_Resources/Persistent/c999b91414d56a0417fb0f26af6dd832c69b4537/Leistungen_Sommer-Winter-Ganzj%C3%A4hrig%20ab%2001.12.2023.pdf
 .. _3-in-5-Tage Skiticket: https://www.hochschwarzwald.de/_Resources/Persistent/515a550021ef519f0e97cb095abfac0a82560799/OnePager%20Feldberg_.pdf
-.. _Kinder-Ferien-Programm: http://www.hochschwarzwald.de/Familienurlaub/Kinderprogramm-im-Urlaub-mit-Kucky
+.. _Kinder-Ferien-Programm: https://www.hochschwarzwald.de/planen-buchen/urlaub-in-der-region/familien-urlaub/kinderprogramm

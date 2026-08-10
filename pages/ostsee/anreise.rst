@@ -14,7 +14,7 @@ Zur Planung Ihrer Anreise empfehlen wir Ihnen den Routenplaner von GoogleMaps. W
 .. raw:: html
 
 	<div class="embed-responsive embed-responsive-4by3">
-	<iframe class="embed-responsive-item" src="http://maps.google.de/maps?f=q&amp;source=s_q&amp;hl=de&amp;geocode=&amp;q=Dorfstra%C3%9Fe+5b,+Te%C3%9Fmannsdorf&amp;sll=54.060395,11.612806&amp;sspn=0.026397,0.077162&amp;ie=UTF8&amp;hq=&amp;hnear=Dorfstra%C3%9Fe+5B,+Tessmannsdorf+18233+Am+Salzhaff,+Bad+Doberan,+Mecklenburg-Vorpommern&amp;t=h&amp;ll=54.059237,11.604652&amp;spn=0.024182,0.054932&amp;z=13&amp;iwloc=A&amp;output=embed"></iframe>
+	<iframe class="embed-responsive-item" src="https://maps.google.de/maps?f=q&amp;source=s_q&amp;hl=de&amp;geocode=&amp;q=Dorfstra%C3%9Fe+5b,+Te%C3%9Fmannsdorf&amp;sll=54.060395,11.612806&amp;sspn=0.026397,0.077162&amp;ie=UTF8&amp;hq=&amp;hnear=Dorfstra%C3%9Fe+5B,+Tessmannsdorf+18233+Am+Salzhaff,+Bad+Doberan,+Mecklenburg-Vorpommern&amp;t=h&amp;ll=54.059237,11.604652&amp;spn=0.024182,0.054932&amp;z=13&amp;iwloc=A&amp;output=embed"></iframe>
 	</div>
 
 

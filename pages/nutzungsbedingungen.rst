@@ -55,5 +55,3 @@ Hinweis zur Online-Streitbeilegung gemäß Art. 14 Abs. 1 ODR-VO:
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie unter https://ec.europa.eu/consumers/odr/ finden.
 
 -------------------------------------------------------------------------------
-
-:Quelle: Haftungsausschluss von http://Haftungsausschluss.org

@@ -73,6 +73,13 @@ jobs:
           ( cd tests && npm ci )
           node tests/carousel-heights.test.js
 
+      - name: Integration test — external links must resolve
+        run: |
+          # Scans pages/ for external links and opens each in a headless browser.
+          # Fails on genuinely dead links (404/410/network errors); 403 bot-blocks
+          # are surfaced as warnings so real bot-protected pages don't flake CI.
+          node tests/check-links.test.js
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
