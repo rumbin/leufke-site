@@ -46,6 +46,8 @@ jobs:
                       "Logbook==1.5.3" \
                       "tornado==6.2" \
                       "requests==2.28.1" \
+                      "lxml==4.9.2" \
+                      "Mako==1.2.4" \
                       "sftpclone==1.2.2" \
                       "cryptography==3.4.7"
 
