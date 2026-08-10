@@ -34,7 +34,8 @@ jobs:
                       "Markdown==3.3.4" \
                       "doit==0.33.1" \
                       "sftpclone==1.2.2" \
-                      "cryptography==3.4.7"
+                      "cryptography==3.4.7" \
+                      "PyYAML>=5.4,<6"
 
       - name: Build site for GitHub Pages subdomain
         env:
