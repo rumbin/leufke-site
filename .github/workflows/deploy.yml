@@ -1,0 +1,71 @@
+name: Build & Deploy GitHub Pages
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+# Only one deployment at a time, latest wins.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.8 (matches local pinned env)
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.8'
+
+      - name: Install pinned dependencies
+        run: |
+          pip install --upgrade pip setuptools wheel
+          pip install "Nikola[extras]==7.8.15" \
+                      "Markdown==3.3.4" \
+                      "doit==0.33.1" \
+                      "sftpclone==1.2.2" \
+                      "cryptography==3.4.7"
+
+      - name: Build site for GitHub Pages subdomain
+        env:
+          SITE_URL_OVERRIDE: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
+        run: |
+          # Override SITE_URL so sitemap/canonical point at the Pages target.
+          python - <<'PY'
+          import re
+          p = 'conf.py'
+          src = open(p).read()
+          src = re.sub(
+              r'SITE_URL\s*=\s*"[^"]*"',
+              'SITE_URL = "' + __import__('os').environ['SITE_URL_OVERRIDE'] + '"',
+              src,
+          )
+          open(p, 'w').write(src)
+          PY
+          nikola build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: output
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
