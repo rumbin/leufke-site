@@ -26,22 +26,18 @@
 
 .. class:: lead
 
-You prefer to spend your holidays in a quiet relaxful area without hustle and bustle? But nevertheless you want to stay close to the Baltic Sea? In this case our holiday house might be just right for you!
+Looking for a quiet retreat near the sea, away from the crowds? Our holiday house might be just what you're looking for.
 
 
-Our house is located at the Baltic Sea Coast Cycle Track between the Baltic Sea resorts Wismar and Rerik, about 5 km to Rerik. And as we offer you five bikes for free you can be at the sea within 20 minutes and with no costs for parking!
-Close to our house is nice playground for smaller children.
+We're located on the Baltic Sea Coast Cycle Track between Wismar and Rerik, about 5 km from Rerik. We provide five bikes free of charge, so you can be at the seaside in 20 minutes — no parking fees needed! There's also a nice playground for smaller children right next to the house.
 
-If you prefer walking you can reach the beach of the Salzhaff-Bay in 20 minutes. It is the nature protected part of the beach, ideal for small children or even dogs. You can discover protected plants 
-and animals or just enjoy the silence and the nature.
+If you prefer walking, the natural beach of the Salzhaff bay is about 20 minutes on foot — a protected, shallow bay that's wonderful for small children and dogs alike. You might spot rare plants and animals, or simply enjoy the peace and quiet of nature.
 
-You like culture? There are beautiful old churches in the so called Red-Brick Gothic style, and you can also listen to concerts, or visit museums and or even Open-Air attractions.
-You and your children will love the little zoo in Wismar with a lovely playground!
+Culture lovers will find beautiful old Brick Gothic churches, concerts, museums, and open-air events throughout the region. And the little zoo in Wismar with its playground is a hit with children!
 
-Do you like sightseeing tours?
-We recommend Wismar, Bad-Doberan, Warnemünde and the old town of Rostock. What about a  harbour tour in Rerik, Wismar and Warnemünde? Or trips to the Darß, to the islands Hiddensee and Rügen, or just doing some sports like surfing, sailing, fishing, or several other water sports.
+Fancy a day trip? We recommend Wismar, Bad Doberan, Warnemünde, or the old town of Rostock. Harbour tours depart from Rerik, Wismar, and Warnemünde. Or head to the Darß peninsula, the islands of Hiddensee and Rügen, or try your hand at surfing, sailing, or fishing.
 
-Our house is the ideal starting point for all of these and even more things!
+Our house is a wonderful starting point for all of this — and much more!
 
 
 The holiday home
@@ -67,56 +63,45 @@ Features
 Highlights
 ----------
 
-You like cooking? So do we!
-For that reason we offer you a very well equipped kitchen with everything you need for cooking and baking like: mixer, blender, kitchen scales, baking oven, fridge, freezer, exhaust hood, coffee machine, ceramic glass cook top, microwave,…
-These things are taken for granted. You will feel like home!
+You enjoy cooking? So do we! That's why our kitchen is so well equipped: mixer, blender, kitchen scales, oven, fridge, freezer, exhaust hood, coffee machine, ceramic cooktop, microwave, and more. You'll feel right at home.
 
-You like the cosy feeling when sitting in front of a warm chimney fire? You can have it in our living room!
-And you can watch TV with the full choice of satellite TV or movies with 40“ LED TV, in combination with a Blue ray movie-system , RDS radio, CD, DVD,…
-And in the other living room upstairs there is yet one more TV flat screen. 
-Another highlight is a big wooden table, surrounded by a comfortable corner bench, hand made by our local joiner. It's a great place for playing cards, board games, sitting and laughing together and having a lot of fun! We have already tested it!
+There's nothing quite like settling in front of a warm fire in the evening — and our living room has a lovely fireplace. The 40" LED TV with Blu-ray surround system, RDS radio, CD, and DVD ensures plenty of entertainment. There's also a second TV in the upstairs living area.
 
-Nobody likes being bugged by flies, moths or other insects. Therefore all of our bedrooms and bathrooms are equipped with flyscreens.
+A real highlight is the large, handmade corner bench by our local joiner, surrounding a big wooden table. It's perfect for games nights, long dinners, and good conversation — we've tested it ourselves!
 
-On the upper floor you will find two bedrooms, one  with a double bed and one with two single beds.
-There is also another, smaller living room, like a foyer, with a convertible sleeping sofa (1.4 m × 2.0 m), a small table, some chests of drawers and a flatscreen TV.
-We also offer you a child bed and a  highchair for children on request.
-By the way, there are two toilets in the house, an appreciable fact when staying with many persons.
+Flies and moths won't bother you here: all bedrooms and the bathroom have flyscreens.
 
-Coming home from the beach, you will appreciate the washing machine because of the enormous number of wet and sandy towels and clothes. You can dry them on the rotary clothes lines.
+Upstairs you'll find two bedrooms — one with a double bed and one with two single beds. There's also a cozy secondary living space with a convertible sofa (1.4 m × 2.0 m), a small table, and a flatscreen TV. A child bed and highchair are available on request. And with two toilets in the house, things run smoothly even with a full house.
 
-After an adventurous day on the beach it will be relaxing to chill in the garden or to have a wonderful barbeque on the terrace.  You can watch the cranes and the wild geese and enjoy the 
-quietness of the evening!
+After a day at the beach, the washing machine will be your best friend — and the rotary clothes lines in the garden make light work of drying. On warm evenings, the terrace and garden are perfect for a barbecue, watching the cranes and wild geese drift by as the sun sets.
 
 Free WiFi
 ---------
 
-Even on holiday it may be necessary to get in contact with your family, friends or your job, so we provide WiFi for free.
+Free WiFi is available throughout the house.
 
-The holiday home is equipped with modern flatscreen TVs. Feel free to bring with you any sort of HDMI-compatible devices to enjoy your holiday photos, favourite TV series or movies. 
+The holiday home has modern flatscreen TVs. Bring along any HDMI-compatible device to enjoy your holiday photos, favourite series, or films. 
 
 
 The Surroundings
 ================
 
-Tessmannsdorf is located on a bay of the Baltic Sea, called „Salzhaff“, that's also the name of our holiday house! Its a shallow natural beach, ideal for smaller children and even for surfers, because they can stand there.
+Tessmannsdorf sits right on the Salzhaff — a shallow bay of the Baltic Sea that gives our house its name. It's ideal for small children and surfers alike, thanks to the calm, shallow water.
 
-The Baltic Sea Spa Rerik is only 5 km from our house and you can easily get there by bike. We offer you five bikes for free.
-
-Rerik has a big sandy beach with small shops and restaurants,a beautiful view over the sea and over the bay Salzhaff! You can recreate by swimming, relaxing or walking along the beach.
+The charming seaside resort of Rerik is just 5 km away — an easy bike ride, and we provide five bikes for free. Rerik offers a beautiful sandy beach, small shops and restaurants, and lovely views over the sea and the Salzhaff bay. Swimming, relaxing, or just walking along the shore — it's all right there.
 
 Tip:
- Visit our gallery_ to get an impression of the "Salzhaff" and the surroundings nearby.
+ Visit our gallery_ to get a glimpse of the Salzhaff and its surroundings.
 
 Recreation – Culture – Sports – Entertainment
 ----------------------------------------------
 
-We have several Baltic Sea Spas within a surrounding of 20 km like: Rerik, Heiligendamm, Kühlungsborn, Warnemünde, with a wide range of wellness proposals and wonderful sandy beaches, ideal for relaxing and for recreation!
+Several Baltic Sea resorts lie within 20 km — Rerik, Heiligendamm, Kühlungsborn, and Warnemünde — each with wonderful sandy beaches and wellness options, perfect for relaxing days by the sea.
 
-If you prefer some more culture, we recommend Wismar, Bad Doberan and Rostock. They are well known for their beautiful Brick churches in Gothic style, for concerts and open air events.
+For a change of pace, Wismar, Bad Doberan, and Rostock are well worth a visit, known for their beautiful Brick Gothic churches, concerts, and open-air events.
 
-Other highlights are: a trip with the steam train „Molli“, harbour tours in Rerik , Wismar and Warnemünde, visiting the indoor swimmingpool „Wonnemar“ with its slides and several kinds of saunas, you can also do windsurfing — or learning it?! — bike tours, visiting the little zoo in Wismar or the bigger zoo in Rostock, Hansa Sail in Warnemünde, and a lot more interesting events. The tourist information in Rerik can also help you and you will find some informative  links on our homepage!
-The Baltic Spas offer interesting holiday programmes especially during the summer season!
+Other highlights include a ride on the „Molli" steam train, harbour tours in Rerik, Wismar, and Warnemünde, a visit to the „Wonnemar" indoor pool with its slides and saunas, windsurfing lessons, bike tours, the little zoo in Wismar or the bigger one in Rostock, and the famous Hansa Sail in Warnemünde — just to name a few. The tourist information office in Rerik is a great resource, and you'll find more links on our homepage.
+The Baltic resorts also offer a varied programme of holiday activities, especially in summer!
 
 
 Belegungskalender
