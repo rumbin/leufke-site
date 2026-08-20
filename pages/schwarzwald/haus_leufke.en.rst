@@ -82,18 +82,17 @@
 
 .. class:: lead
 
-You will really like our house, built in the „Black Forest Farm Style“, cosy and with a beautiful view over woods and hills.
+Our house, built in the traditional „Black Forest Farm Style“, is cosy and welcoming — with a beautiful view over woods and hills.
 
-
-What ever you plan for your stay, any kind of outdoor activities — such as hiking, walking, cycling, skiing, swimming, climbing, canoeing, diving,… — or if you prefer trips, sightseeing within the region of the Black Forest, or if you like to enjoy the various cultural highlights — such as museums, traditional farms, distilleries, breweries, cuckoo clock factories, wood carving manufactories,… — our home surely is the ideal starting point.
+Whatever you have planned for our stay, any kind of outdoor activities — such as hiking, walking, cycling, skiing, swimming, climbing, canoeing, diving,… — or if you prefer trips, sightseeing within the region of the Black Forest, or if you like to enjoy the various cultural highlights — such as museums, traditional farms, distilleries, breweries, cuckoo clock factories, wood carving manufactories,… — our home surely is the ideal starting point.
 
 The Hochschwarzwald Card offers you more than 60 attractions to visit daily for free. Last but not least we supply you with free WiFi access, too!
 
-Our high comfort beds will guarantee you a good recreation at night. Even tall people will have warm feet because of our oversized blankets. Besides, all of our bedrooms are fitted with blinds and screens against insects.
+Our comfortable beds will help you get a good night's rest — even tall guests appreciate our extra-long blankets! All bedrooms have blinds and insect screens.
 
-You love cooking? So do we! For that reason our kitchens are all very well equipped. If you are still missing something we will be pleased to help you out. In case you don't want to cook yourself you can find several nice restaurants and taverns nearby in walking distance.
+You love cooking? So do we! Our kitchens are well equipped for everything from a quick breakfast to a proper holiday feast. And if something is missing, just let us know — we're happy to help. If you'd rather eat out, there are nice restaurants and taverns within walking distance.
 
-As Lenzkirch is a climate health resort it is for us self evidently to offer you a non smoking house! You will enjoy the good air!
+Since Lenzkirch is a health resort, we offer a non-smoking house. You'll enjoy the fresh mountain air!
 
 
 ==============
@@ -169,10 +168,9 @@ Our Apartments
 Free WiFi
 =========
 
-Even on holiday it may be necessary to get in contact with your family, friends or your job, so we provide WiFi for free.
- 
+Staying connected on holiday is easy — we provide free WiFi throughout the house.
 
-All of our apartments are equipped with modern LED TVs. So you are free to bring with you a Google Cromecast or Amazon Fire TV stick to watch your holiday photos, favourite TV series or movies. 
+All apartments come with modern LED TVs. Feel free to bring a Chromecast or Amazon Fire TV stick to enjoy your holiday photos, favourite series, or films on the big screen.
 
 
 
@@ -183,55 +181,48 @@ Hochschwarzwald Card
 
 .. thumbnail:: 	/images/sw/hsw-card.png
 
-We offer you the `Hochschwarzwald Card`_ for free, so you and your family have free or greatly discounted access to plenty of activities, events, facilities,…
+Every guest receives the `Hochschwarzwald Card`_ free of charge — it's included with your stay. With this card you and your family can enjoy free or discounted access to a wide range of cultural and leisure attractions, every day of your holiday.
 
 
 
 .. class:: lead
 
-So, what are the benefits of the Hochschwarzwald Card?
+What does the Hochschwarzwald Card offer?
 
 
-Each of our guests receives this card for free.
-It allows for the access and use of the many culture and leisure attractions free of charge or at a discounted price — each and every day during your stay.
+From seasonal summer and winter offers to year-round activities, there's always something to discover. One winter highlight, for example, is the `3-in-5-Day Skiticket`_.
 
-A wide range of summer, winter and all-season attractions invite you to make every day an experience of its own.
-The `3-in-5-Day Skiticket`_ is just one of the popular highlights. 
-
-Please refer to the `Hochschwarzwald Card`_ website for the most recent list of free and discounted attractions and the `Performance Overview`_.
-
-You almost certainly won't find such an extensive offer anywhere else in Germany!
+For the full and up-to-date list of included attractions, please visit the `Hochschwarzwald Card`_ website and the `Performance Overview`_.
 
 
 ================
 The Surroundings
 ================
 
-Lenzkirch is a paradise in the heart of the Black Forest, especially for hikers, mountainbikers, families and for everyone who looks for a quiet and recreative place.
+Lenzkirch is a paradise in the heart of the Black Forest — a wonderful place for hikers, mountain bikers, families, and anyone looking for rest and relaxation.
 
-We live in Kappel, an urban district of Lenzkirch. It is about 1000 m above sea level, on the south side of the mountain Hochfirst (1190 m) and you have a beautiful view over meadows and hills and forests.
+We live in Kappel, a quiet district of Lenzkirch at about 1000 m above sea level, on the sunny south side of the Hochfirst mountain (1190 m). The views over meadows, hills, and forests are simply lovely.
 
 Tip:
- Visit our gallery_ to get an impression of our village and the surroundings nearby.
+ Visit our gallery_ to get a taste of our village and the surrounding area.
 
-If you are looking for alternatives, the Tourist Authority offers you a lot of interesting activities!
+Looking for more ideas? The local tourist office has plenty of suggestions for day trips and activities!
 
 ---------------------
 What can you do here?
 --------------------- 
 
-You can use a wonderful lawn for playing or recreation! We have a nice outdoor swimming pool in Kappel with clear water from a source and as it won't be heated, there is barely any chlorine in it. We also have tennis court sin Kappel and in Lenzkirch. You can play there for free! And you can refresh your feet in the local park after the wonderful hiking tours!
+There's a shared lawn for playing and relaxing right at the house. In Kappel you'll find a lovely outdoor swimming pool fed by a natural spring — barely any chlorine, just clear, fresh water. Tennis courts in Kappel and Lenzkirch are free for our guests, and after a hike you can rest your feet in the local park.
 
-In the surrounding within 10 km you'll find the lakes Titisee, and Schluchsee, the Feldberg,the lake Feldsee, the gorge Wutachschlucht, the lake Windgfällweiher, and on the lakes you can do Stand-up paddling, swimming, rowing, pedal boating, surfing, sailing,…
-Last but not least we offer you golfing for free, cycling with an E-bike, or just walking!
+Within 10 km you can explore the Feldberg, Titisee, Schluchsee, Feldsee, the Wutach gorge, and the Windgfällweiher lake — swimming, paddle boating, cycling, or simply strolling along the shores. We also offer free golf and E-bike rentals.
 
-On the Feldberg you can do tours with the Ranger through the nature protected area with a wonderful view even to the Swiss Alps! 
+On the Feldberg, guided ranger tours take you through the nature reserve with stunning views all the way to the Swiss Alps.
 
-The Upper Black Forest Toutist authority (HTG) offers you a wonderful `program for children`_. And with our local bus companies you can do day trips to the Lake of Constance, the Isle Mainau, the Rheinfall in Schaffhausen, or to France to see the beautiful Alsace, or even to the Swiss Alps!
+The Upper Black Forest tourist board (HTG) offers a great `program for children`_. And with local bus companies you can take day trips to Lake Constance, the island of Mainau, the Rhine Falls in Schaffhausen, the beautiful Alsace in France, or even the Swiss Alps.
 
-More interesting activities, and not only for families, are: the House of Nature on the Feldberg, the Hasenhorncoaster in Todtnau, the Steinwasenpark in Oberried, the Wild Animals Park in Löffingen, the Rope-climbing garden in Titisee, the outdoor pool Aqua Fun in Schluchsee, the heated outdoor swimming pools in Lenzkirch, Titisee and Neustadt,and of course the Badeparadies in Titisee, and surely many more activities,…
+There's also the House of Nature on the Feldberg, the Hasenhorn Coaster in Todtnau, Steinwasenpark in Oberried, the Wild Animals Park in Löffingen, the rope-climbing garden in Titisee, Aqua Fun in Schluchsee, and the heated pools in Lenzkirch, Titisee, and Neustadt. And of course the Badeparadies in Titisee — just to name a few!
 
-And for the winter we suggest to do alpine skiing, cross country skiing, snowboarding, sledging,and winter hiking!
+In winter, the region offers alpine skiing, cross-country skiing, snowboarding, sledging, and winter hiking.
 
 
 .. _gallery: /en/galleries/schwarzwald
@@ -239,7 +230,3 @@ And for the winter we suggest to do alpine skiing, cross country skiing, snowboa
 .. _Performance Overview: https://www.hochschwarzwald.de/_Resources/Persistent/6eba9d7eac8dcd44745e891275d6bcc2009a3e89/Performance%20overview%20from%20December%202023.pdf
 .. _3-in-5-Days Skiticket: https://www.hochschwarzwald.de/_Resources/Persistent/515a550021ef519f0e97cb095abfac0a82560799/OnePager%20Feldberg_.pdf
 .. _progamm for children: https://www.hochschwarzwald.de/planen-buchen/urlaub-in-der-region/familien-urlaub/kinderprogramm
-
-
-
-

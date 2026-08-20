@@ -34,25 +34,17 @@ Features
 
 .. class:: lead
 
-A two-room apartment with distinct entrance for your all-private holidays.
+A two-room apartment with its own private entrance — ideal for a peaceful holiday.
 
+All rooms face south with a lovely view over meadows, forests, and hills. It accommodates up to 4 persons plus a child.
 
-All rooms are located to the south with a wonderful view over meadows, forests and hills; you can stay here with 4 persons and a child.
+The bedroom has a double bed and a child bed (1.60 m long), both windows with flyscreens and blinds. In the living area you'll find a cosy dining corner with a large table and 4 chairs, a sofa that converts to a double bed, and two comfortable armchairs for relaxing. The flatscreen TV comes with HDMI, stereo, and a DVD player.
 
-The bedroom is equipped with a double bed and a bed for a child (1,60 m long).
-The windows are feature flyscreens and blinds. 
-In the living room there is a cosy dining area with a big table and 4 chairs, a big sofa which is convertible to a double bed, and for relaxing we offer you 2 very comfortable armchairs. 
-If you are interested in modern media you can watch exciting movies on the flatscreen TV set, which is equipped with a lot of modern ports (HDMI), stereo and a DVD player.
+The kitchen is very well equipped — you'll feel right at home cooking here. The bathroom has a spacious shower and a washing machine; laundry can be dried on the rotary clothes line in the garden.
 
-If you like cooking, you will be happy about the very well equipped kitchen.
-In the big bathroom there is enough space for a big shower and even a washing machine. You can dry the laundry outdoor on a big rotary clothes line in the garden.
+On the large terrace you can enjoy your meals, fire up the barbecue, or simply relax with a book in the sun. On warm evenings, the garden is just as inviting.
 
-If the weather is fine you can take your meals or have a barbeque on the big terrace under the sun umbrella.
-You can also relax, read or just enjoy the quietness on the terrace or in the garden!
-
-And you will spend unforgettable holidays here!
-
-
+We hope you'll love it here!
 Availability calendar
 =====================
 

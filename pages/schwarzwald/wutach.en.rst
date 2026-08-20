@@ -35,17 +35,15 @@ Features
 
 .. class:: lead
 
-If you prefer a bigger apartment, perhaps you are four persons, we would recommend the apartment „Wutach“.
+Looking for a spacious apartment — perhaps for four people? We'd love to welcome you to „Wutach".
 
+The cosy bedroom has a tent-like shape with a sliding door. From the double bed you can gaze up at the starry night sky through two large roof windows — both fitted with flyscreens and blinds. The bright, roomy bathroom has a bathtub and a separate shower.
 
-The cosy bedroom looks like a tent and it has a sliding door. The double bed, located beneath the two big roof-lights  offers you an amazing outlook onto the starry night sky.The windows are equipped with flyscreens and blinds. 
-You will feel comforting in the light and warm bathroom with a bathtub and a shower, both very new installed!
+The snug corner sofa converts into a comfortable double bed in just a few minutes. Between the sofa and the kitchen unit there's a dining table with four chairs — and when the weather is nice, you can move outside to the balcony with its electric barbecue.
 
-The snug corner sofa can be changed into a comfortable double bed within a few minutes. 
-Between the sofa and the kitchen unit there is a nice table and four chairs, just the right place for dining. And when it's warm outside you can even have dinner on the balcony. There you can use  a practical electric barbeque for a perfect meal. 
-For completing the day you can relax on the sofa and watch exciting movies on the flatscreen TV set, which is equipped with a lot of modern ports (HDMI), stereo and a DVD player.
+After an active day, settle in on the sofa with a movie on the flatscreen TV (HDMI, stereo, DVD player) and let the evening wind down.
 
-You will really enjoy the quietness and the good air!
+You'll love the peace and the fresh mountain air!
 
 Availability calendar
 =====================

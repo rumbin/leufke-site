@@ -35,28 +35,19 @@ Features
 
 .. class:: lead
 
-You are looking for a small cosy apartment? Then our apartment „Feldberg“ might be just right for you!
+Looking for a small, cosy retreat? Our apartment „Feldberg“ might be just the thing for you.
 
+This apartment is ideal for 1 to 2 persons — a quiet place to unwind with a good book.
 
-This apartment, suitable for 1 to 2 persons, is perfect for relaxing and reading. 
-You will really like it!
+From the spacious balcony you can enjoy a wonderful view across the Black Forest hills to the Feldberg. When the sun is strong, a large awning provides welcome shade. There's also an electric barbecue for evenings on the balcony.
 
-From the gig balcony you can enjoy a wonderful view over the hills and mountains of the Black Forest up to the Feldberg.
-And if the sun is too strong for you you can get  shadow by a nice red awning.
-On the balcony you will also find a new  electric barbeque for completing a good dinner.
+The double bed sits beneath a large roof window — perfect for watching the starry night sky. The windows have flyscreens and blinds.
 
-The double bed, located beneath a big roof-lights offers you an amazing outlook onto the starry night sky.The windows are equipped with flyscreens and blinds.
+The bathroom is bright and warm with a shower. The kitchenette has a ceramic cooktop, exhaust hood, and everything you need for a lovely meal. A dining table with two leather armchairs invites you to sit and linger.
 
-You will feel comforted in the light and warm bathroom with a shower.
-The kitchenette is well equipped with a ceramic glass cooktop, exhaust hood, and everything you need for preparing a wonderful meal.
-And we have a nice table with two leather armchairs for dining.
+On the flatscreen TV (HDMI, stereo, DVD player) you can catch up on a film, or simply sink into the cosy sofa and armchair.
 
-If you are interested in modern media you can  watch exciting movies on the flatscreen TV set, which is equipped with a lot of modern ports (HDMI), stereo and a DVD player.
-And there is a cosy sofa and a relax armchair for your easiness.
-
-You will calm down and enjoy the comfort and silence.
-
-
+Take your time, relax, and enjoy the peace and quiet.
 Availability calendar
 =====================
 
