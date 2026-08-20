@@ -11,10 +11,6 @@ __pycache__/
 *.swp
 *~
 
-# --- Local config — never commit credentials! ---
-# The FTP deploy target was removed from conf.py; a local, git-ignored file
-# recreates it. Also ignore any stray credential/local-state files.
-deploy_target.conf
 
 # --- npm integration tests ---
 # node_modules is reinstalled in CI from tests/package-lock.json.
