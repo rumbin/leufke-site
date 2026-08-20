@@ -88,9 +88,9 @@ Unser im Schwarzwaldstil gehaltenes „Haus Leufke“ liegt sonnig und freundlic
 Was immer Sie für Ihren Urlaub planen – ob Outdoor-Aktivitäten wie Wandern, Radfahren, Klettern, Kanufahren oder Skifahren, Kultur wie Museen, traditionelle Bauernhäuser, Brennereien und Brauereien, oder einfach die Natur genießen – unser Haus ist immer ein idealer Ausgangspunkt dafür! Mit der Hochschwarzwald-Card der HTG stehen Ihnen täglich über 60 attraktive kostenlose Angebote zur Verfügung! Und zur Komplettierung Ihres Traumurlaubs haben Sie kostenloses Internet und Telefon!
 
 Für Ihren guten und erholsamen Schlaf sorgen bestens ausgestattete Betten. Selbst Großgewachsene haben bei uns immer warme Füße! Alle Schlafzimmer sind mit Rolläden und Insektengittern ausgestattet!
-Sie lieben Kochen? Wir auch! Deshalb sind die Küchen in unseren Appartements gut ausgestattet. Sollte Ihnen etwas fehlen, helfen wir gerne! Und sollte Ihnen der Sinn mal nicht nach Kochen stehen, so sind in nächster Umgebung gute Gasthäuser und Restaurants zu Fuß zu erreichen!
+Sie lieben Kochen? Wir auch! Deshalb sind die Küchen in unseren Appartements umfangreich ausgestattet und sollten Sie dennoch einmal etwas vermissen, werden wir Ihnen gerne aushelfen! Und sollte Ihnen der Sinn mal nicht nach Kochen stehen, so sind in nächster Umgebung gute Gasthäuser und Restaurants zu Fuß zu erreichen!
 
-Lenzkirch ist ein heilklimatischer Luftkurort – bei uns ist es selbstverständlich ein Nichtraucherhaus. genießen Sie die frische Luft!
+Lenzkirch ist ein Heilklimatischer Luftkurort und da versteht es sich von selbst,dass Sie bei uns ein Nichtraucherhaus vorfinden!
 
 
 Die Ferienwohnungen im Detail
