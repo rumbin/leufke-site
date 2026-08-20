@@ -30,7 +30,7 @@ You prefer to spend your holidays in a quiet relaxful area without hustle and bu
 
 
 Our house is located at the Baltic Sea Coast Cycle Track between the Baltic Sea resorts Wismar and Rerik, about 5 km to Rerik. And as we offer you five bikes for free you can be at the sea within 20 minutes and with no costs for parking!
-Close to our house is nice playgrund for smaller children.
+Close to our house is nice playground for smaller children.
 
 If you prefer walking you can reach the beach of the Salzhaff-Bay in 20 minutes. It is the nature protected part of the beach, ideal for small children or even dogs. You can discover protected plants 
 and animals or just enjoy the silence and the nature.
@@ -72,18 +72,18 @@ For that reason we offer you a very well equipped kitchen with everything you ne
 These things are taken for granted. You will feel like home!
 
 You like the cosy feeling when sitting in front of a warm chimney fire? You can have it in our living room!
-And you can watch TV with the full choice of satelite TV or movies with 40“ LED TV, in combination with a Blue ray movie-system , RDS radio, CD, DVD,…
+And you can watch TV with the full choice of satellite TV or movies with 40“ LED TV, in combination with a Blue ray movie-system , RDS radio, CD, DVD,…
 And in the other living room upstairs there is yet one more TV flat screen. 
 Another highlight is a big wooden table, surrounded by a comfortable corner bench, hand made by our local joiner. It's a great place for playing cards, board games, sitting and laughing together and having a lot of fun! We have already tested it!
 
-Nobody likes being bugged by flies, moths or other insects. Therefore all of our bedrooms and bathrooms and bathrooms are equipped with flyscreens.
+Nobody likes being bugged by flies, moths or other insects. Therefore all of our bedrooms and bathrooms are equipped with flyscreens.
 
 On the upper floor you will find two bedrooms, one  with a double bed and one with two single beds.
 There is also another, smaller living room, like a foyer, with a convertible sleeping sofa (1.4 m × 2.0 m), a small table, some chests of drawers and a flatscreen TV.
 We also offer you a child bed and a  highchair for children on request.
-By the way, there are two toilets in the house, an appreciatable fact when staying with many persons.
+By the way, there are two toilets in the house, an appreciable fact when staying with many persons.
 
-Coming home from the beach, you will appriciate the washing machine because of the enormous number of wet and sandy towels and clothes. You can dry them on the rotary clothes lines.
+Coming home from the beach, you will appreciate the washing machine because of the enormous number of wet and sandy towels and clothes. You can dry them on the rotary clothes lines.
 
 After an adventurous day on the beach it will be relaxing to chill in the garden or to have a wonderful barbeque on the terrace.  You can watch the cranes and the wild geese and enjoy the 
 quietness of the evening!
@@ -115,7 +115,7 @@ We have several Baltic Sea Spas within a surrounding of 20 km like: Rerik, Heili
 
 If you prefer some more culture, we recommend Wismar, Bad Doberan and Rostock. They are well known for their beautiful Brick churches in Gothic style, for concerts and open air events.
 
-Other highlights are: a trip with the steam train „Molli“, harbour tours in Rerik , Wismar and Warnemünde, visting the indoor swimmingpool „Wonnemar“ with its slides and several kinds of saunas, you can also do windsurfing — or learning it?! — bike tours, visiting the little zoo in Wismar or the bigger zoo in Rostock, Hansa Sail in Warnemünde, and a lot more interesting events. The tourist information in Rerik can also help you and you will find some informative  links on our homepage!
+Other highlights are: a trip with the steam train „Molli“, harbour tours in Rerik , Wismar and Warnemünde, visiting the indoor swimmingpool „Wonnemar“ with its slides and several kinds of saunas, you can also do windsurfing — or learning it?! — bike tours, visiting the little zoo in Wismar or the bigger zoo in Rostock, Hansa Sail in Warnemünde, and a lot more interesting events. The tourist information in Rerik can also help you and you will find some informative  links on our homepage!
 The Baltic Spas offer interesting holiday programmes especially during the summer season!
 
 
@@ -141,9 +141,9 @@ Prices
 
 
 .. Table was created with https://truben.no/table/#
-   Output: HTML, since restrcutured text is not capable of right alignment :-(
+   Output: HTML, since reStructured text is not capable of right alignment :-(
    Choose "add all borders" in the "table" menu
-   And then replace the <style> header wwith the one below...
+   And then replace the <style> header with the one below...
 
 .. raw:: html
 

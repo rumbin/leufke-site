@@ -1,4 +1,4 @@
-.. title: Nutzungsbedingungen, Haftungsauschluss
+.. title: Nutzungsbedingungen, Haftungsausschluss
 .. slug: nutzungsbedingungen
 .. date: 2016-03-12 20:14:44 UTC+01:00
 .. tags: 
@@ -46,7 +46,7 @@ Cookies
 
 Cookies können auf dieser Webseite zum Einsatz kommen, da eingebettete Inhalte von Drittanbietern verwendet werden. Wenn gewünscht, kann die Verwendung von Cookies unterbunden werden, indem Sie in Ihrem Webbrowser entsprechende Einstellungen vornehmen.
 
-Am Beispeil des Webbrowsers Firefox findet sich hierzu hier eine Anleitung: https://support.mozilla.org/de/kb/Cookies-blockieren
+Am Beispiel des Webbrowsers Firefox findet sich hierzu hier eine Anleitung: https://support.mozilla.org/de/kb/Cookies-blockieren
 
 Online-Streitbeilegung
 ----------------------

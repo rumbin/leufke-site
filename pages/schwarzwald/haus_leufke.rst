@@ -85,10 +85,10 @@
 Das im Schwarzwaldstil gehaltene “Haus Leufke” bietet mit seiner sonnigen Lage einen freien unverbauten Blick auf die Schwarzwaldhöhen.
 
 
-Was immer Sie für Ihren Urlaub planen, ob Outdoor Aktivitäten wie Wandern, Rad fahren, Klettern, Kanu fahren,Skifahren, Ausflüge in die Umgebung, ob Sie Kultur, wie zum Besipiel Museen, Traditionelle Bauernhäuser, Brennereien, Brauereien, Holzschnitzereien, Natur oder Abenteuer bevorzugen, unser Haus ist immer der ideale Ausgangspunkt dafür! Mit der Hochschwarzwald-Card der HTG stehen Ihnen täglich über 60 attraktive kostenlose Angebote zur Verfügung! Und zur Komplettierung Ihres Traumurlaubs haben Sie kostenloses Internet und Telefon!
+Was immer Sie für Ihren Urlaub planen, ob Outdoor Aktivitäten wie Wandern, Rad fahren, Klettern, Kanu fahren,Skifahren, Ausflüge in die Umgebung, ob Sie Kultur, wie zum Beispiel Museen, Traditionelle Bauernhäuser, Brennereien, Brauereien, Holzschnitzereien, Natur oder Abenteuer bevorzugen, unser Haus ist immer der ideale Ausgangspunkt dafür! Mit der Hochschwarzwald-Card der HTG stehen Ihnen täglich über 60 attraktive kostenlose Angebote zur Verfügung! Und zur Komplettierung Ihres Traumurlaubs haben Sie kostenloses Internet und Telefon!
 
 Für Ihren guten und erholsamen Schlaf sorgen bestens ausgestattete Betten. Selbst Großgewachsene haben bei uns immer warme Füße! Alle Schlafzimmer sind mit Rolläden und Insektengittern ausgestattet!
-Sie lieben Kochen? Wir auch! Deshalb sind die Küchen in unseren Appartements umfangreich ausgesttet und sollten Sie dennoch einmal etwas vermissen, werden wir Ihnen gerne aushelfen! Und sollte Ihnen der Sinn mal nicht nach Kochen stehen, so sind in nächster Umgebung gute Gasthäuser und Restaurants zu Fuß zu erreichen!
+Sie lieben Kochen? Wir auch! Deshalb sind die Küchen in unseren Appartements umfangreich ausgestattet und sollten Sie dennoch einmal etwas vermissen, werden wir Ihnen gerne aushelfen! Und sollte Ihnen der Sinn mal nicht nach Kochen stehen, so sind in nächster Umgebung gute Gasthäuser und Restaurants zu Fuß zu erreichen!
 
 Lenzkirch ist ein Heilklimatischer Luftkurort und da versteht es sich von selbst,dass Sie bei uns ein Nichtraucherhaus vorfinden!
 
@@ -165,7 +165,6 @@ WLAN inklusive
 
 Um auch im Urlaub nicht auf Email und Internet verzichten zu müssen, steht Ihnen sowohl im Appartement, als auch in der Ferienwohnung unser DSL-Zugang über WLAN (drahtloses Netzwerk) kostenlos zur Verfügung.
 
-Bei Bedarf und rechtzeitiger Voranmeldung stellen wir Ihnen sogar ein mehrsprachiges Netbook bereit, sodass Sie Ihren eigenen Laptop zuhause lassen können!
 
 Alle unsere Appartements sind mit modernen LED-TVs ausgestattet. Gerne können Sie daher auch z.B. Ihren Google Cromecast oder Amazon Fire-TV Stick mitbringen, um Ihre Urlaubsfotos, Lieblingsfilme oder Serien auch im Urlaub ansehen zu können.
 

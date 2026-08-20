@@ -35,13 +35,13 @@ Features
 
 .. class:: lead
 
-If you prefer a bigger apartment, perhaps you are four persons, we would recomment the apartment „Wutach“.
+If you prefer a bigger apartment, perhaps you are four persons, we would recommend the apartment „Wutach“.
 
 
-The cosy bedroom looks like a tent and it has a sliding door. The double bed, located beneath the two big roof-lights  offers you an amazing outlook onto the stary night sky.The windows are equipped with flyscreens and blinds. 
+The cosy bedroom looks like a tent and it has a sliding door. The double bed, located beneath the two big roof-lights  offers you an amazing outlook onto the starry night sky.The windows are equipped with flyscreens and blinds. 
 You will feel comforting in the light and warm bathroom with a bathtub and a shower, both very new installed!
 
-The snug cornersofa can be changed into a comfortable double bed within a few minutes. 
+The snug corner sofa can be changed into a comfortable double bed within a few minutes. 
 Between the sofa and the kitchen unit there is a nice table and four chairs, just the right place for dining. And when it's warm outside you can even have dinner on the balcony. There you can use  a practical electric barbeque for a perfect meal. 
 For completing the day you can relax on the sofa and watch exciting movies on the flatscreen TV set, which is equipped with a lot of modern ports (HDMI), stereo and a DVD player.
 
@@ -73,9 +73,9 @@ Prices
 
 
 .. Table was created with https://truben.no/table/#
-   Output: HTML, since restrcutured text is not capable of right alignment :-(
+   Output: HTML, since reStructured text is not capable of right alignment :-(
    Choose "add all borders" in the "table" menu
-   And then replace the <style> header wwith the one below...
+   And then replace the <style> header with the one below...
 
 .. raw:: html
 

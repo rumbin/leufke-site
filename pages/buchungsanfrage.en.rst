@@ -25,7 +25,7 @@ In order to enable us to process your request correctly, please provide the foll
 * Accommodation:
    - Apartment *Feldberg*, *Wutach* or *Roodbach* in the Upper Black Forest
    - or *Haus Salzhaff* at the Baltic Sea
-* **Date of arrival/departure** using the following format: *Year-Moonth-Day*, e.g., 2023-12-24.
+* **Date of arrival/departure** using the following format: *Year-Month-Day*, e.g., 2023-12-24.
 * Number of **adults** and number and age of all **children**.
 * Number and type of any **pets** you intend to take with you.
 * Your complete **name**, your **address** and your **phone number**.
