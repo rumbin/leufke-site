@@ -537,32 +537,11 @@ REDIRECTIONS = [('schwarzwald/index.html', '/schwarzwald/haus_leufke/'),
 # plugin (`nikola plugin -i ping`).  Or run `nikola check -l`.
 # You may also want to use github_deploy (see below).
 # You can define multiple presets and specify them as arguments
-# to `nikola deploy`.  If no arguments are specified, a preset
-# named `default` will be executed.  You can use as many presets
-# in a `nikola deploy` command as you like.
-# Deploy target (host:user:password@server:path) is read from a LOCAL, git-ignored
-# file so no credentials ever enter this public repository.
-# Create ./deploy_target.conf with:
-#   sftpclone -e .exclude_sftpclone -l INFO ./ <user>:<pass>@ftp.leufke.de:nikola-sftpclone/
-# and run:  nikola deploy --target-file deploy_target.conf
-# (The original FTP credentials were removed from this file for publication.)
+# Deploy
+# Deployment is handled by GitHub Actions (see .github/workflows/deploy.yml).
+# On push to main, CI builds the site and deploys to GitHub Pages automatically.
+# No local deploy commands needed.
 DEPLOY_COMMANDS = {}
-DEPLOY_TARGET_FILE = 'deploy_target.conf'
-
-# github_deploy configuration
-# For more details, read the manual:
-# https://getnikola.com/handbook.html#deploying-to-github
-# For user.github.io OR organization.github.io pages, the DEPLOY branch
-# MUST be 'master', and 'gh-pages' for other repositories.
-# GITHUB_SOURCE_BRANCH = 'master'
-# GITHUB_DEPLOY_BRANCH = 'gh-pages'
-
-# The name of the remote where you wish to push to, using github_deploy.
-# GITHUB_REMOTE_NAME = 'origin'
-
-# Whether or not github_deploy should commit to the source branch automatically
-# before deploying.
-GITHUB_COMMIT_SOURCE = True
 
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
