@@ -45,14 +45,14 @@ From the gig balcony you can enjoy a wonderful view over the hills and mountains
 And if the sun is too strong for you you can get  shadow by a nice red awning.
 On the balcony you will also find a new  electric barbeque for completing a good dinner.
 
-The double bed, located beneath a big roof-lights offers you an amazing outlook onto the stary night sky.The windows are equipped with flyscreens and blinds.
+The double bed, located beneath a big roof-lights offers you an amazing outlook onto the starry night sky.The windows are equipped with flyscreens and blinds.
 
-You will feel comforted  in the light and warm bathroom a shower,.
+You will feel comforted in the light and warm bathroom with a shower.
 The kitchenette is well equipped with a ceramic glass cooktop, exhaust hood, and everything you need for preparing a wonderful meal.
 And we have a nice table with two leather armchairs for dining.
 
 If you are interested in modern media you can  watch exciting movies on the flatscreen TV set, which is equipped with a lot of modern ports (HDMI), stereo and a DVD player.
-And there is a cosy sofa a a relax armchair for your easiness.
+And there is a cosy sofa and a relax armchair for your easiness.
 
 You will calm down and enjoy the comfort and silence.
 

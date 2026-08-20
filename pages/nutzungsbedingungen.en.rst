@@ -46,7 +46,7 @@ Cookies
 
 Cookies may be used on this website, as embedded content from third-party providers is employed. If desired, the use of cookies can be prevented by adjusting the appropriate settings in your web browser.
 
-Using the Firefox web browser as an example, instructions can be found here: https://support.mozilla.org/de/kb/Cookies-blockieren
+Using the Firefox web browser as an example, instructions can be found here: https://support.mozilla.org/en-US/kb/block-cookies
 
 Online Dispute Resolution
 --------------------------

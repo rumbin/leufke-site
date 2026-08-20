@@ -45,12 +45,12 @@ In the living room there is a cosy dining area with a big table and 4 chairs, a 
 If you are interested in modern media you can watch exciting movies on the flatscreen TV set, which is equipped with a lot of modern ports (HDMI), stereo and a DVD player.
 
 If you like cooking, you will be happy about the very well equipped kitchen.
-In the big bathroom there is enough space for a big shower and even a washing maching. You can dry the laundry outdoor on a big rotary clothes line in the garden.
+In the big bathroom there is enough space for a big shower and even a washing machine. You can dry the laundry outdoor on a big rotary clothes line in the garden.
 
 If the weather is fine you can take your meals or have a barbeque on the big terrace under the sun umbrella.
-You can also relax, read or just enjoy the qietness on the terrace or in the garden!
+You can also relax, read or just enjoy the quietness on the terrace or in the garden!
 
-And you will spend unforgetable holidays here!
+And you will spend unforgettable holidays here!
 
 
 Availability calendar

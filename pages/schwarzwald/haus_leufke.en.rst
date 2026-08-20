@@ -85,11 +85,11 @@
 You will really like our house, built in the „Black Forest Farm Style“, cosy and with a beautiful view over woods and hills.
 
 
-What ever you plan for your stay, any kind of outdoor activities — such as hiking, walking, cycling, skiing, swimming, climbing, canoeing, diving,… — or if you prefer trips, sightseeing within the region of the Black Forest, or if you like to enjoy the various cultural highlights — such as museums, tradtional farms, destilleries, breweries, cookoo clock factories, wood carving manufacturies,… — our home surely is the ideal starting point.
+What ever you plan for your stay, any kind of outdoor activities — such as hiking, walking, cycling, skiing, swimming, climbing, canoeing, diving,… — or if you prefer trips, sightseeing within the region of the Black Forest, or if you like to enjoy the various cultural highlights — such as museums, traditional farms, distilleries, breweries, cuckoo clock factories, wood carving manufactories,… — our home surely is the ideal starting point.
 
 The Hochschwarzwald Card (the so called Red Card) offers you more than 60 attractions to visit daily for free. Last but not least we supply you with free WiFi access, too!
 
-Our high comfort beds will garantee you a good recreation at night. Even tall people will have warm feet because of our oversized blankets. Besides, all of our bedrooms are fitted with blinds and screens against insects.
+Our high comfort beds will guarantee you a good recreation at night. Even tall people will have warm feet because of our oversized blankets. Besides, all of our bedrooms are fitted with blinds and screens against insects.
 
 You love cooking? So do we! For that reason our kitchens are all very well equipped. If you are still missing something we will be pleased to help you out. In case you don't want to cook yourself you can find several nice restaurants and taverns nearby in walking distance.
 
@@ -156,8 +156,8 @@ Our Apartments
 			</div>
 		</div>
 		<div class="col-md-7">
-			<h2 class="featurette-heading">Apartment "Roodbach". <br/><span class="text-muted">Sunny and spaceous</span></h2>
-			<p class="lead">This is our biggest apartment. On the big terrace you can relax in the sun and in the evening it is time for a nice barbeque! <br/>This aparment is big enough for 4 persons and a baby!</p>
+			<h2 class="featurette-heading">Apartment "Roodbach". <br/><span class="text-muted">Sunny and spacious</span></h2>
+			<p class="lead">This is our biggest apartment. On the big terrace you can relax in the sun and in the evening it is time for a nice barbeque! <br/>This apartment is big enough for 4 persons and a baby!</p>
 			<p><a class="btn btn-default" href="../roodbach" role="button">Read more &raquo;</a></p>
 		</div>
 	</div>
@@ -197,7 +197,7 @@ Each of our guests receives this card for free.
 It allows for the access and use of the many culture and leisure attractions free of charge or at a discounted price — each and every day during your stay.
 
 A wide range of summer, winter and all-season attractions invite you to make every day an experience of its own.
-The `3-in-5-Days Skiticket`_ is just one of the popular highlights. 
+The `3-in-5-Day Skiticket`_ is just one of the popular highlights. 
 
 Please refer to the `Hochschwarzwald Card`_ website for the most recent list of free and discounted attractions and the `Performance Overview`_.
 
@@ -215,7 +215,7 @@ We live in Kappel, an urban district of Lenzkirch. It is about 1000 m above sea 
 Tip:
  Visit our gallery_ to get an impression of our village and the surroundings nearby.
 
-If you are looking for alternations, tour Touristic Authority offers you a lot of interesting activities!
+If you are looking for alternatives, the Tourist Authority offers you a lot of interesting activities!
 
 ---------------------
 What can you do here?
@@ -228,11 +228,11 @@ Last but not least we offer you golfing for free, cycling with an E-bike, or jus
 
 On the Feldberg you can do tours with the Ranger through the nature protected area with a wonderful view even to the Swiss Alps! 
 
-The Upper Black Forest Toutist authority (HTG) offers you a wonderful `progamm for children`_. And with our local bus companies you can do day trips to the Lake of Constance, the Isle Mainau, the Rheinfall in Schaffhausen, or to France to see the beautiful Alsace, or even to the Swiss Alps!
+The Upper Black Forest Toutist authority (HTG) offers you a wonderful `program for children`_. And with our local bus companies you can do day trips to the Lake of Constance, the Isle Mainau, the Rheinfall in Schaffhausen, or to France to see the beautiful Alsace, or even to the Swiss Alps!
 
-More interesting activities, and not only for families, are: the House of Nature on the Feldberg, the Hasenhorncoaster in Todtnau, the Steinwasenpartk in Oberried, The Wild Amilals Park in Löffingen, the Rope-climbing garden in Titisee, the outdoor pool Aqua Fun in Schluchsee, the heated outdoor swimming pools in Lenzkirch, Titisee and Neustadt,and of course the Badeparadies in Titisee, and surely many more activities,…
+More interesting activities, and not only for families, are: the House of Nature on the Feldberg, the Hasenhorncoaster in Todtnau, the Steinwasenpark in Oberried, the Wild Animals Park in Löffingen, the Rope-climbing garden in Titisee, the outdoor pool Aqua Fun in Schluchsee, the heated outdoor swimming pools in Lenzkirch, Titisee and Neustadt,and of course the Badeparadies in Titisee, and surely many more activities,…
 
-And for the winter we suggest to do alpine skiing, cross country skiing, snowdoarding, sledging,and winter hiking!
+And for the winter we suggest to do alpine skiing, cross country skiing, snowboarding, sledging,and winter hiking!
 
 
 .. _gallery: /en/galleries/schwarzwald
