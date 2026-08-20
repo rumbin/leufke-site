@@ -82,7 +82,7 @@
 
 .. class:: lead
 
-Unser im Schwarzwaldstil gehaltene „Haus Leufke“ liegt sonnig und freundlich mit freiem Blick auf die Schwarzwaldhöhen.
+Unser im Schwarzwaldstil gehaltenes „Haus Leufke“ liegt sonnig und freundlich mit freiem Blick auf die Schwarzwaldhöhen.
 
 
 Was immer Sie für Ihren Urlaub planen – ob Outdoor-Aktivitäten wie Wandern, Radfahren, Klettern, Kanufahren oder Skifahren, Kultur wie Museen, traditionelle Bauernhäuser, Brennereien und Brauereien, oder einfach die Natur genießen – unser Haus ist immer ein idealer Ausgangspunkt dafür! Mit der Hochschwarzwald-Card der HTG stehen Ihnen täglich über 60 attraktive kostenlose Angebote zur Verfügung! Und zur Komplettierung Ihres Traumurlaubs haben Sie kostenloses Internet und Telefon!
