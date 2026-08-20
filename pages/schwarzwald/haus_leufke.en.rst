@@ -87,7 +87,7 @@ You will really like our house, built in the „Black Forest Farm Style“, cosy
 
 What ever you plan for your stay, any kind of outdoor activities — such as hiking, walking, cycling, skiing, swimming, climbing, canoeing, diving,… — or if you prefer trips, sightseeing within the region of the Black Forest, or if you like to enjoy the various cultural highlights — such as museums, traditional farms, distilleries, breweries, cuckoo clock factories, wood carving manufactories,… — our home surely is the ideal starting point.
 
-The Hochschwarzwald Card (the so called Red Card) offers you more than 60 attractions to visit daily for free. Last but not least we supply you with free WiFi access, too!
+The Hochschwarzwald Card offers you more than 60 attractions to visit daily for free. Last but not least we supply you with free WiFi access, too!
 
 Our high comfort beds will guarantee you a good recreation at night. Even tall people will have warm feet because of our oversized blankets. Besides, all of our bedrooms are fitted with blinds and screens against insects.
 
@@ -171,7 +171,6 @@ Free WiFi
 
 Even on holiday it may be necessary to get in contact with your family, friends or your job, so we provide WiFi for free.
  
-If you need a suitable device, you can get a multilingual netbook from us, but please ask us 2 weeks before your arrival.
 
 All of our apartments are equipped with modern LED TVs. So you are free to bring with you a Google Cromecast or Amazon Fire TV stick to watch your holiday photos, favourite TV series or movies. 
 
@@ -184,7 +183,7 @@ Hochschwarzwald Card
 
 .. thumbnail:: 	/images/sw/hsw-card.png
 
-Since 2011 we offer you the `Hochschwarzwald Card`_ (the so called Red Card) for free, so you and your family have free or greatly discounted access to plenty of activities, events, facilities,…
+We offer you the `Hochschwarzwald Card`_ for free, so you and your family have free or greatly discounted access to plenty of activities, events, facilities,…
 
 
 

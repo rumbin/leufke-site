@@ -165,7 +165,6 @@ WLAN inklusive
 
 Um auch im Urlaub nicht auf Email und Internet verzichten zu müssen, steht Ihnen sowohl im Appartement, als auch in der Ferienwohnung unser DSL-Zugang über WLAN (drahtloses Netzwerk) kostenlos zur Verfügung.
 
-Bei Bedarf und rechtzeitiger Voranmeldung stellen wir Ihnen sogar ein mehrsprachiges Netbook bereit, sodass Sie Ihren eigenen Laptop zuhause lassen können!
 
 Alle unsere Appartements sind mit modernen LED-TVs ausgestattet. Gerne können Sie daher auch z.B. Ihren Google Cromecast oder Amazon Fire-TV Stick mitbringen, um Ihre Urlaubsfotos, Lieblingsfilme oder Serien auch im Urlaub ansehen zu können.
 

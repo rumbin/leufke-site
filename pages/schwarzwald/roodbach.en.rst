@@ -79,9 +79,9 @@ Prices
 
 
 .. Table was created with https://truben.no/table/#
-   Output: HTML, since restrcutured text is not capable of right alignment :-(
+   Output: HTML, since reStructured text is not capable of right alignment :-(
    Choose "add all borders" in the "table" menu
-   And then replace the <style> header wwith the one below...
+   And then replace the <style> header with the one below...
 
 .. raw:: html
 
