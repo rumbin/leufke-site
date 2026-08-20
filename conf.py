@@ -34,7 +34,7 @@ BLOG_TITLE = "Haus Leufke & Haus Salzhaff"  # (translatable)
 # The canonical production URL is leufke.de. When building for the GitHub
 # Pages mirror (subdomain), the CI workflow overrides this via an env var
 # (see .github/workflows) so sitemap/canonical links match the deploy target.
-SITE_URL = "http://leufke.de/"
+SITE_URL = "https://leufke.de/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://leufke.de/"

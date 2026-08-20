@@ -60,25 +60,30 @@ jobs:
                       "cryptography==50.0.0" \
                       "Babel==2.18.0"
 
-      - name: Build site for GitHub Pages subdomain
+      - name: Build site
         env:
-          # On PRs / branches this keeps sitemap/canonical pointing at the Pages
-          # target; on a real `main` deploy the deployed site is the Pages URL.
-          SITE_URL_OVERRIDE: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
+          # On PRs the preview lives at the GitHub subdomain, so point
+          # sitemap/canonical there.  On main (real deploy) keep the
+          # custom-domain URL already in conf.py — no override needed.
+          PR_SITE_URL: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
         run: |
-          # Override SITE_URL so sitemap/canonical point at the Pages target.
-          python - <<'PY'
-          import re
+          # Only override SITE_URL on pull requests; main pushes use conf.py as-is.
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            python - <<'PY'
+          import re, os
           p = 'conf.py'
           src = open(p).read()
           src = re.sub(
               r'SITE_URL\s*=\s*"[^"]*"',
-              'SITE_URL = "' + __import__('os').environ['SITE_URL_OVERRIDE'] + '"',
+              'SITE_URL = "' + os.environ['PR_SITE_URL'] + '"',
               src,
           )
           open(p, 'w').write(src)
           PY
+          fi
           nikola build
+          # GitHub Pages needs the CNAME file inside the deployed artifact.
+          cp CNAME output/
 
       - name: Integration test — carousel slide heights must not jump
         run: |
